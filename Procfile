@@ -1,1 +1,1 @@
-web: java -jar target/jsf-spring-boot-1.0.0.war
+web: java -jar target/ship-commerce-1.0.0.war
