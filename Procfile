@@ -1,1 +1,0 @@
-web: java -jar target/ship-commerce-1.0.0.war
